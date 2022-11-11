@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/oDoList/static/css/main.31d6cfe0.css",
+    "main.js": "/oDoList/static/js/main.9e00aa08.js",
+    "static/js/787.97a945da.chunk.js": "/oDoList/static/js/787.97a945da.chunk.js",
+    "index.html": "/oDoList/index.html",
+    "main.9e00aa08.js.map": "/oDoList/static/js/main.9e00aa08.js.map",
+    "787.97a945da.chunk.js.map": "/oDoList/static/js/787.97a945da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.9e00aa08.js"
+  ]
+}
